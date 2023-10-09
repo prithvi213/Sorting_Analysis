@@ -1,4 +1,4 @@
-## Assignment 3 - Sorting: Putting your affairs in order
+## Sorting: Putting your affairs in order
 
 This program is a program which takes an array of numbers and uses various different functions to sort numbers from smallest to largest. This program sorts numbers using heapsort, insertion sort, selection sort, and quicksort. In addition, we also measure the number of moves and comparisons each sort takes. The number of elements you can sort in this program is modifiable.
 
